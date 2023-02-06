@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: monleak/ExpressExampleProject:v1
+          tags: monleak/ExpressExampleProject:staging
 
 
   pull-and-up:
